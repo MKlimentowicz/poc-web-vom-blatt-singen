@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+# docs/ is intentionally tracked — GitHub Pages source
 
 # Editor directories and files
 .vscode/*
