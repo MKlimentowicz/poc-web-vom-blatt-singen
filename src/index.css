@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pistachio: #8FB97A;
+}
